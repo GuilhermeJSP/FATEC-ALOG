@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1781133566 source:c:\users\0030482613006\documents\alog\prjexemplorotinafuncao\exemplosbasicos.c
+	<stdio.h>
+
+1781131711 source:c:\users\0030482613006\documents\alog\prjexemplorotinafuncao\dobro.c
+	<stdio.h>
+
+1781133383 source:c:\users\0030482613006\documents\alog\prjexemplorotinafuncao\funcoes.c
+
+1781133635 source:c:\users\0030482613006\documents\alog\prjexemplorotinafuncao\venda.c
+	<stdio.h>
+
+1782490465 source:c:\users\guilh\downloads\alog\prjexemplorotinafuncao\dobro.c
+	<stdio.h>
+
+1782490611 source:c:\users\guilh\downloads\alog\prjexemplorotinafuncao\exemplosbasicos.c
+	<stdio.h>
+
+1782490592 source:c:\users\guilh\downloads\alog\prjexemplorotinafuncao\funcoes.c
+
+1782490766 source:c:\users\guilh\downloads\alog\prjexemplorotinafuncao\venda.c
+	<stdio.h>
+
+1782490407 source:c:\users\guilh\downloads\alog\prjexemplorotinafuncao\media.c
+	<stdio.h>
+
+1782490732 source:c:\users\guilh\downloads\alog\prjexemplorotinafuncao\tabuada.c
+	<stdio.h>
+
